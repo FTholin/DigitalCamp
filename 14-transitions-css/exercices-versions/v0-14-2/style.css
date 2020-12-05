@@ -1,0 +1,42 @@
+html,
+body {
+  margin-top: 50px;
+  height: 100%;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.game {
+  position: relative;
+  display: inline-block;
+  height: 60%;
+}
+
+.game img {
+  cursor: pointer;
+}
+
+.game .plage {
+  margin-top: 50px;
+  height: 430.188px;
+  width: 573.578px;
+}
+
+.game .charlie {
+  position: absolute;
+  top: 230px;
+  left: 270px;
+  z-index: 1;
+  transition-duration: 100ms;
+  transition-property: max-height;
+  max-height: 100px;
+}
+
+.game .charlie:hover {
+  max-height: 250px;
+}

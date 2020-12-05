@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
+
+/* Main Styles */
+body {
+  min-width: 300px;
+  background-color: #ecf0f1;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.button {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: block;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+  width: 300px;
+  height: 100px;
+  line-height: 100px;
+  background-color: #34B3A0;
+  color: #fff;
+}
+
+.button span,
+.button .icon {
+  position: absolute;
+  display: block;
+  height: 100%;
+  text-align: center;
+}
+
+.button span {
+  width: 72%;
+  left: 0px;
+  line-height: inherit;
+  font-size: 22px;
+}
+
+.button .icon {
+  right: 0;
+  width: 28%;
+}
+
+.button .icon .fa {
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+.icon {
+  width: 200px;
+  background-color: #1A7B72;
+}
+
+.button:hover span {
+  left: -72%;
+}
+
+.button:hover .icon {
+  width: 100%;
+}
+
+.button:hover .icon .fa {
+  font-size: 45px;
+}

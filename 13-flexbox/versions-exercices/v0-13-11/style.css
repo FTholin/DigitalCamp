@@ -1,0 +1,48 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+  margin: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.container {
+  height: 300px;
+  width: 600px;
+  background-color: WhiteSmoke;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.left,
+.center,
+.right {
+  height: 75px;
+  width: 200px;
+  margin: 2px;
+  background-color: DodgerBlue;
+  border: 2px solid lightgrey;
+}
+
+#flexstart {
+
+}
+
+#flexend {
+
+}
+
+#center {
+
+}
+
+#between {
+
+}
+
+#around {
+
+}

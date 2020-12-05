@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  border: 0;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+}
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+.container {
+  width: 150px;
+  border: 1px solid grey;
+}
+
+.box {
+  background-color: Dodgerblue;
+  height: 75px;
+  width: 75px;
+  border: 1px solid turquoise;
+}

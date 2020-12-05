@@ -1,0 +1,38 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+.container {
+  background-color: dodgerblue;
+  display: flex;
+  align-items: center;
+  min-height: 125px;
+}
+
+.box {
+  background-color: whitesmoke;
+  border: 1px solid white;
+  width: 100px;
+  height: 100px;
+}
+
+#wrap {
+
+}
+
+#nowrap {
+
+}
+
+#reverse {
+
+}

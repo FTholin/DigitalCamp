@@ -1,0 +1,16 @@
+a {
+  display: block;
+  width: 300px;
+  padding: 31px 5px;
+  border-radius: 5px;
+  margin: 20% auto;
+  background-color: orange;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 32px;
+  color: MintCream;
+}
+
+a:hover {
+  background-color: LimeGreen;
+}

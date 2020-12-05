@@ -1,0 +1,100 @@
+body {
+  background-color: white;
+}
+
+.image-container {
+  
+}
+
+.image-container img {
+  
+}
+
+/* Banner Section */
+
+#banner {
+  
+  background-image: url('https://media.thetab.com/blogs.dir/16/files/2013/10/manchester-attractions-northern-quarter-3.jpg');
+  background-position: center;
+  
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#banner h1 {
+  
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: white;
+}
+
+/* Blog Post */
+
+#blog {
+  
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#blog .post {
+  
+  
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1.8;
+  color: #444444;
+}
+
+.post h2 {
+  
+  
+}
+
+.post h3 {
+  
+  color: #999999;
+}
+
+.post .opening-line {
+  margin-top: 4.1875rem;
+  margin-bottom: 1.5rem;
+  color: black;
+  font-weight: bold;
+}
+
+.post .image-container {
+  
+}
+
+/* Blog Images */
+
+.images {
+  
+}
+
+.images .image-container {
+  display: inline-block;
+  
+}
+
+/* Footer */
+
+footer {
+  padding: 4rem 0;
+  border-top: 1px solid #999999;
+  font-family: 'Roboto', sans-serif;
+  
+  color: #999999;
+  text-align: center;
+}

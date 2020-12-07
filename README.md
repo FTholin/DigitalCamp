@@ -64,8 +64,23 @@ Voici l'ensemble des outils que nous allons utiliser durant toute la semaine.
 - [Flux](https://justgetflux.com/) - F.lux est un logiciel modifiant la luminosité de votre écran en fonction de votre géo-position et de l'heure. Un moyen d'éviter de trop fatiguer vos yeux lorsque vous êtes derrière vos écrans.
 - [Pomodoro-tracker](https://pomodoro-tracker.com/) - C'est une méthode de gestion du temps adaptée à n'importe quelle tâche.
 
+## Coder en local
+
+**IMPORTANT :** Suivez le cours normalement, même si vous ne comprenez pas ce que vosu utilisez tout de suite (ex : le code `css`). **Tout** est expliqué en temps et en heure.  
+Dans le **même dossier** vous devrez créer un fichier `index.html` et `style.css`.  
+`index.html` : votre code html.  
+`style.css` : votre code css.  
+Pour insérer la feuille de style `.css` vous rajouterez la ligne de code suivante dans entre les balises `<head></head>` de votre page html.  
+```html
+<link rel="stylesheet" href="style.css">
+```
+___
+#### Raccourcis VSCode
+Si vous utilisez `VSCode` allez ici pour une petite liste des commandes les plus utiles : [Commandes pour utilisateurs Windows](./VSCode_tips.md)
+
 ## Ressources à consommer sans modération ❤️❤️ 
 - [Comprendre les Origines du Web (Documentaire : 26min)](https://video.ploud.fr/videos/watch/36f1aa1e-5c9f-4e6e-af57-53451ca90df1) - Synthèse sur les origines du Web
 - [DERRIÈRE NOS ÉCRANS DE FUMÉE (Documentaire : 1h29)](https://www.allocine.fr/film/fichefilm_gen_cfilm=280921.html) - Documentaire Netflix à voir absolument
 - [Les clés pour monter sa startup quand on est étudiant (conférence : 1h42)](https://www.youtube.com/watch?v=6XSPDHu8ioA&t=12s) - Méthodologie pour monter sa start up
 - [L'Économie Bleue (conférence : ~1h30)](https://www.youtube.com/watch?v=2IEPYq4Odzg&t=3740s) - Modèle économique qui en s'inspire des écosystèmes naturels
+ 

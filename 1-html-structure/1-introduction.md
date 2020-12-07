@@ -14,7 +14,7 @@ L'apprentissage du HTML est la première étape dans la création de sites web, 
 
 ## A vous de jouer !
 
-1. Prenez en main [JsFiddle](./tuto-jsFiddle.md)
+1. Prenez en main JsFiddle.
 2. Dans l'éditeur de code tapez votre nom entre `<h1>` et `</h1>`, puis appuyez sur Run.  
 
 ___

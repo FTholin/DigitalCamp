@@ -54,7 +54,7 @@ Et enfin le projet final...
 
 ## Organisation & Notation
 
-Afin de vous évaluer dans les meilleures conditions, nous vous évaluerons sur le rendu des quiz afin de suivre votre avancement ainsi que le rendu du projet final (à rendre pour le **20/12/20**).
+Afin de vous évaluer dans les meilleures conditions, nous vous évaluerons sur le rendu des quiz afin de suivre votre avancement ainsi que le rendu du projet final (à rendre pour le **20/12/20** à **17h00** heure de Paris).
 
 
 ## Outils

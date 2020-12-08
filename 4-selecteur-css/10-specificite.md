@@ -18,7 +18,7 @@ h1 {
 }
 ```
 
-Dans l'exemple de code ci-dessus, la couleur de l'intitulé sera fixé à `firebrick`, car le sélecteur de classe est plus spécifique que le sélecteur de balise.
+Dans l'exemple de code ci-dessus, la couleur de l'intitulé sera fixé à `red`, car le sélecteur de classe est plus spécifique que le sélecteur de balise.
 Si un attribut ID (et un sélecteur) était ajouté au code ci-dessus, les styles dans le corps du sélecteur ID auraient la priorité sur tous les autres styles pour la rubrique.
 La seule façon de remplacer un ID est d'ajouter un autre ID avec un style supplémentaire.
 

@@ -10,7 +10,7 @@
 
 4. Dans le premier élément de la ligne de tableau, à partir de la tâche 3:
     - ajoutez un élément d'en-tête de tableau.
-    - À l'intérieur de celui-ci, ajoutez un `<h1>` avec le texte suivant Programme de la fête du vin.
+    - À l'intérieur de celui-ci, ajoutez un `<h1>` avec le texte suivant `Programme de la fête`.
 
 5. Dans le seconde ligne du tableau, à partir de la tâche 2, ajoutez deux `<th>` :
     - Dans le premier, ajoutez un `<h2>` qui indique `Date`.

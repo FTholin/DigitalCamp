@@ -1,4 +1,4 @@
-# Chevauchement de colonnes
+# Chevauchement de colonnes à titre informationel
 
 Que faire si le tableau contient des données qui s'étendent sur plusieurs colonnes ?
 

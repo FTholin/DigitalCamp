@@ -16,7 +16,7 @@ L'élément `<table>` contiendra toutes les données tabulaires que nous prévoy
 
 ##### A vous de jouer !
 
-1. Copier et coller le code [suivant (v0-3-1)](./oceanic-airline/v0-3-1/index.html) avec sa [feuille de style](./oceanic-airline/v0-3-1/style.css)
+1. Copier et coller le code [suivant (v0-3-1)](./oceanic-airline/v0-3-1/) avec sa [feuille de style](./oceanic-airline/v0-3-1/style.css)
 
 2. Créez le tableau après le `<div>` qui a l'attribut `class="search"`.
 

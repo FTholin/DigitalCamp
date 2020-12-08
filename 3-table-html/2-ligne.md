@@ -18,7 +18,7 @@ Dans l'exemple ci-dessus, deux lignes ont été ajoutées au tableau.
 ## A vous de jouer !
 
 1. Reprendre le code de l'exercice duement complété.
-2. Ajoutez deux lignes au tableau dans `index.html`.
+2. Ajoutez deux lignes au tableau dans le HTML.
 
 ___
 

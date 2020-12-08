@@ -56,6 +56,25 @@ Et enfin le projet final...
 
 Afin de vous évaluer dans les meilleures conditions, nous vous évaluerons sur le rendu des quiz afin de suivre votre avancement ainsi que le rendu du projet final (à rendre pour le **20/12/20** à **17h00** heure de Paris).
 
+### Quelques principes de base pour progresser efficacement
+
+#### Loi de Carlson
+- Limitez les interruptions (Mettre sur pause les canaux, les divertissements ...)
+
+#### Loi de Pareto ou 80/20
+- Se concentrer sur l'essentiel
+        
+#### Loi de Parkinson
+- Plus on **dispose de temps**, plus on **prendra de temps**. Il faut donc se fixer des échéances, des délais raisonnables pour accomplir les tâches que l’on nous demande. 
+        
+#### Loi de Laborit
+- Faites le plus difficile en premier.
+
+#### Loi de Illich
+- Prenez des pauses
+
+#### Loi de Murphy
+- Gardez toujours une marge pour les imprévus
 
 ## Outils
 

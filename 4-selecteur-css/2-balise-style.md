@@ -1,4 +1,4 @@
-# Balise `<style>`
+# Balise `<style>` dans `<html>`
 
 Les styles en ligne sont un moyen rapide de styliser le HTML, mais ils ont aussi leurs limites. Si vous vouliez styliser, par exemple, plusieurs éléments `<h1>`, vous devriez ajouter manuellement un style en ligne à chaque élément. En outre, vous devez également maintenir le code HTML lorsque des éléments `<h1>` supplémentaires sont ajoutés.
 

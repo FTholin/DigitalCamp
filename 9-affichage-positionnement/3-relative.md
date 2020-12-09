@@ -44,7 +44,7 @@ Notez que les propriétés de décalage ne fonctionneront pas si la valeur par d
 
 1. Reprendre votre code.
 
-2. Dans `style.css`, fixer la propriété `position` à `relative`.
+2. Dans `style.css`, fixer la propriété `position` à `relative` dans `.question`.
 
 3. Baissez l'élément `.question` de 40 pixel.
 

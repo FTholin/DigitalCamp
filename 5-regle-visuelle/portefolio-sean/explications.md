@@ -13,7 +13,7 @@ Dans ce projet, vous utiliserez vos connaissances des règles visuelles CSS pour
 4. Modifiez l'alignement du texte dans la partie supérieure de l'en-tête `.header`.
     - Dans `.header`, alignez le texte au centre en utilisant la propriété `text-align`.
   
-5. Utilisez le CSS pour que le paragraphe sous le nom d'Olivia ait une plus grande taille.
+5. Utilisez le CSS pour que le paragraphe sous le nom de Sean ait une plus grande taille.
     - Créer un sélecteur pour `.about-me`, et définissez sa propriété `font-size` à `20px`.
 
 

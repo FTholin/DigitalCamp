@@ -26,19 +26,19 @@ Pour les images celles-ci doivent être libres de droit. Voici un [le site Pixab
 
 La page doit comporter les caractéristiques suivantes:
 
-- Un header composé de:
+1. Un header composé de:
   - Un logo ou nom personnalisé 
   - Des liens de navigations pour les différents éléments de la page
   - Un bouton pour aller sur Instagram 
   
-- Une section principale :
+2. Une section principale :
   - une section inscription pour l'inscription à une newsletter
     - titre h1
     - titre h2
     - paragraphe
     - bouton pour rejoindre
     
-- Une section caractéristique 
+3. Une section caractéristique 
   - Caractéristique 1
     - image
     - titre h2
@@ -49,7 +49,7 @@ La page doit comporter les caractéristiques suivantes:
     - titre h2
     - titre h3
 
-- Une section témoignages
+4. Une section témoignages
   - titre h2
   - titre h3
   - container d'images
@@ -58,9 +58,10 @@ La page doit comporter les caractéristiques suivantes:
     - image 3
     - image 4
  
-- Une section citation
-  - span comportant la citation
+5. Une section citation
+    - span comportant la citation
   
-- Un pied de page
-  - span comportant les droits d'auteurs
-  - contenu perso
+6. Un pied de page
+ 
+    - span comportant les droits d'auteurs
+    - contenu perso

@@ -10,6 +10,7 @@ Les cases de l'image ci-dessus ont été créées avec le CSS suivant :
 
 ```css
 .boxes {
+  position: static;
   width: 120px;
   height: 70px;
 }

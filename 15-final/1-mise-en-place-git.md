@@ -104,7 +104,7 @@ Maintenant, connectons notre dépôt local Git à GitHub.
 Lorsqu'on vous demande un nom d'utilisateur et un mot de passe, tapez votre nom d'utilisateur et votre mot de passe GitHub et appuyez sur la touche Entrée après chacun. Ne vous inquiétez pas si vous ne pouvez pas voir les caractères que vous tapez, ils sont intentionnellement cachés par mesure de sécurité.
 ![alt text](../medias/Fig25.png)
 
-7. Une fois que votre interface de ligne de commande signale que la poussée est terminée, rafraîchissez la page sur GitHub. Vous devriez maintenant voir le texte que vous avez écrit plus tôt dans le fichier LISEZMOI, "Bonjour Git et GitHub".
+7. Une fois que votre interface de ligne de commande signale que la poussée est terminée, rafraîchissez la page sur GitHub. Vous devriez maintenant voir le texte que vous avez écrit plus tôt dans le fichier README, "Bonjour Git et GitHub".
 
 GitHub affiche automatiquement le contenu d'un fichier nommé README.txt s'il existe dans le dépôt. Le fichier README est l'endroit idéal pour écrire une description de votre projet.
 

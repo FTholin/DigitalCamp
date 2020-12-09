@@ -16,8 +16,9 @@ L'organisation du dossier comportant toutes les fichiers pourrait s'organiser co
 ├── index.html     # fichier contenant le code html
 ├── style.css        # fichier contenant le code css
 ├── ressources/        # dossier composé d'images ou de vidéos pour l'illustration du site
-        ├── image1.png # premiere image bien préciser son chemin dans le code !
-        └── icone.png  # icone instagram pour le lien suivez nous
+        └── images/
+               ├── image1.png # premiere image bien préciser son chemin dans le code !
+               └── icone.png  # icone instagram pour le lien suivez nous
 ```
 
 Pour les images celles-ci doivent être libres de droit. Voici un [Pixabay](https://pixabay.com/fr/) intéressant pour récupérer de telles images.

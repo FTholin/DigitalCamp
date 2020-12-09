@@ -1,6 +1,6 @@
 # Projet Liste-tâches
 
-1. Reprendre le code [suivant](./liste-taches/start):
+1. Reprendre le code [suivant](./start/):
 
 2. Définissez la propriété `display` pour les éléments suivants:
   - La valeur `flex` pour la classe `container`

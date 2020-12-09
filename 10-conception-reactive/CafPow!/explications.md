@@ -67,7 +67,7 @@ En outre, vous contribuerez à l'élaboration de styles qui rendront ce site plu
 
 14. Les images de la galerie sont trop petites pour les petits écrans.
     - Sélectionnez les images dans la galerie et donnez-leur un style qui leur permette de remplir la largeur de l'écran.
-    - Mettez leur marge à 0 pour qu'elles couvrent toute la page. 
+    - Mettez leur marge à 1.5% pour qu'elles couvrent toute la page avec un léger espace entre les images. 
     
 > Cette règle doit être comprise dans la requête de média pour les écrans de moins de 470 pixels. Vous pouvez trouver le sélecteur pour les images de la galerie en regardant dans le CSS pour voir les styles actuels qui leur sont appliqués.
 

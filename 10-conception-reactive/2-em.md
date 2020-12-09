@@ -39,13 +39,13 @@ La taille de police résultante des éléments `h1` sera de *27 pixels*.
 
 1. Reprendre le code [suivant](./versions-exercices/v0-10-1/).
 
-2. Dans `style.css`, réglez la taille de la police dans `#banner h1` ("Voyage Manchester") à `1,5em`.
+2. Dans `style.css`, réglez la taille de la police dans `#banner h1` ("Voyage Manchester") à `1.5em`.
 
-3. Réglez la taille de police de `.post h2` ("Les coins des artistes") à `1,75em`.
+3. Réglez la taille de police de `.post h2` ("Les coins des artistes") à `1.75em`.
 
-4. Définissez la taille de police `.post h3` à `1,25em`.
+4. Définissez la taille de police `.post h3` à `1.25em`.
 
-5. Définissez la taille de police dans le pied de page `footer` (`"&copy ; Week-end en famille à Manchester-Madame Oreille-https://www.madame-oreille.com/week-end-famille-a-manchester/"`) à `0,75em`.
+5. Définissez la taille de police dans le pied de page `footer` (`"&copy ; Week-end en famille à Manchester-Madame Oreille-https://www.madame-oreille.com/week-end-famille-a-manchester/"`) à `0.75em`.
 
 
 ___

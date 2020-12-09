@@ -12,7 +12,8 @@ En bref, GitHub est un outil pour travailler avec Git. Il existe d'autres servic
 
 ## Créer un compte GitHub
 
-Pour utiliser GitHub, vous aurez besoin d'un compte GitHub.
+Pour utiliser GitHub, vous aurez besoin d'un compte GitHub.  
+
 
 Dans votre propre navigateur :
   1. Ouvrir un nouvel onglet du navigateur

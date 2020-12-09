@@ -10,6 +10,19 @@ L'objectif de cette activité est de réaliser la même structure architecturale
 
 Rendu : nous noterons uniquement la forme et **la forme SEULE**. Les contenu des images et du texte est libre (restez décent tout de même).
 
+L'organisation du dossier comportant toutes les fichiers pourrait s'organiser comme ci-dessous:
+
+```
+├── index.html     # fichier contenant le code html
+├── style.css        # fichier contenant le code css
+├── ressources/        # dossier composé d'images ou de vidéos pour l'illustration du site
+        ├── image1.png # premiere image bien préciser son chemin dans le code !
+        └── icone.png  # icone instagram pour le lien suivez nous
+```
+
+Pour les images celles-ci doivent être libres de droit. Voici un [Pixabay](https://pixabay.com/fr/) intéressant pour récupérer de telles images.
+
+
 La page doit comporter les caractéristiques suivantes:
 
 - Un header composé de:

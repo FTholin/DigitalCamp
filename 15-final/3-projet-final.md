@@ -21,13 +21,13 @@ L'organisation du dossier comportant toutes les fichiers pourrait s'organiser co
                └── icone.png  # icone instagram pour le lien suivez nous
 ```
 
-Pour les images celles-ci doivent être libres de droit. Voici un [Pixabay](https://pixabay.com/fr/) intéressant pour récupérer de telles images.
+Pour les images celles-ci doivent être libres de droit. Voici un [le site Pixabay](https://pixabay.com/fr/) très utile  pour récupérer de telles images.
 
 
 La page doit comporter les caractéristiques suivantes:
 
 - Un header composé de:
-  - Un logo personnalisé
+  - Un logo ou nom personnalisé 
   - Des liens de navigations pour les différents éléments de la page
   - Un bouton pour aller sur Instagram 
   

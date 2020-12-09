@@ -15,7 +15,7 @@ Votre travail consistera à les affiner encore plus.
 Actuellement, tous ces changements se font en un instant.
 Ajoutez des transitions pour que les changements se fassent en douceur.
 
-1. Reprendre le code [suivant](/exercices-versions/v0-14-1).
+1. Reprendre le code [suivant](./start/).
 
 2. Dans `style.css`, trouvez le sélecteur de liens à l'intérieur de la barre latérale (`nav a`). Ajoutez une déclaration CSS pour la transition de la couleur du texte. Expérimentez avec différentes valeurs pour la durée, la fonction de temporisation et le délai jusqu'à ce que vous soyez satisfait.
 

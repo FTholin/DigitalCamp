@@ -14,5 +14,5 @@ Pour commencer voici le pdf qui donne les raccourcis les plus importants : [lien
 
 Voici un exemple en gif d'une utilisation de VSCode avec les raccourcis.
 
-![ici](demonstration.gif)  
+![ici](./medias/demonstration.gif)  
 source : https://www.jesuisundev.com/gagne-du-temps-avec-visual-studio-code/

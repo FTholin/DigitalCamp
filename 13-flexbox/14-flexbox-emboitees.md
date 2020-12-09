@@ -51,7 +51,7 @@ Nous utiliserons le même formatage que ci-dessus pour mettre en page la page si
 
 ## A vous de jouer !
 
-1. Reprendre le code  [suivant](/versions-exercices/v0-13-14/).
+1. Reprendre le code  [suivant](./versions-exercices/v0-13-14/).
 
 2. Définissez la propriété `display` de `.main` sur `flex`.
 

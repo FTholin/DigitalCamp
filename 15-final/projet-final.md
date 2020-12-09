@@ -1,27 +1,31 @@
 # Projet Final
 
-Félicitations, à ce stade de votre parcours de codage, vous pouvez créer des sites web bien conçus et réactifs à partir de zéro, tout en le publiant sur GithubPage.
+Félicitations, à ce stade de votre parcours de codage, vous pouvez créer des sites web bien conçus et réactifs à partir de zéro.
 
 Vous possédez maintenant les compétences nécessaires pour créer des sites web à partir de zéro ! Il est temps de mettre en pratique tout ce que vous avez appris.
 
-Vous avez la possibilité de réaliser un projet de base en utilisant toutes les compétences que vous avez acquises jusqu'à présent, pour concevoir et créer une page d'accueil.
+Vous avez la possibilité de réaliser un projet de base en utilisant toutes les compétences que vous avez acquises jusqu'à présent, pour concevoir et créer une page de lancement pour un produit ou un service sortant de votre imagination.
 
-L'objectif de cette activité est de réaliser la même structure architecturale que [maquette.png](./maquette.png) tout en personnalisant et adaptant le contenu de la page selon vos envies.  
+L'objectif de cette activité est de réaliser la même structure architecturale que [maquette.png](./maquette.png) tout en **personnalisant** et **adaptant le contenu** de la page selon vos envies.  
 
-Rendu : nous noterons uniquement la forme et **la forme SEULE**. Les contenu des images et du texte est libre (restez décent tout de même).
+## Critères de rendu
+
+Nous noterons uniquement la forme et **la forme SEULE**. Les contenu des images et du texte est libre (restez décent tout de même).
 
 L'organisation du dossier comportant toutes les fichiers pourrait s'organiser comme ci-dessous:
 
 ```
-├── index.html     # fichier contenant le code html
-├── style.css        # fichier contenant le code css
-├── ressources/        # dossier composé d'images ou de vidéos pour l'illustration du site
-        └── images/
-               ├── image1.png # premiere image bien préciser son chemin dans le code !
-               └── icone.png  # icone instagram pour le lien suivez nous
+├── NOM-PRENOMETUDIANT/        # Dossier à rendre sous format zip
+    ├── index.html # fichier contenant le code html
+    └── style.css  # fichier contenant le code css
 ```
 
 Pour les images celles-ci doivent être libres de droit. Voici [le site Pixabay](https://pixabay.com/fr/) très utile  pour récupérer de telles images.
+
+Contrairement à ce qui a été dis précédemment, vous pouvez continuer le travail sur l'éditeur [JsFiddle](https://jsfiddle.net/). Pensez à bien sauvegarder sur votre machine les fichiers si vous ne voulez pas tout perdre !
+
+Aller sur le site [Pixabay](https://pixabay.com/fr/), trouvez des images allant bien avec votre sujet et copier l'adresse de l'image pour la coller dans l'éditeur.
+
 
 
 ## Structure de la page

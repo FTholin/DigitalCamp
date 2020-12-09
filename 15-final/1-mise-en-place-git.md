@@ -108,7 +108,7 @@ Lorsqu'on vous demande un nom d'utilisateur et un mot de passe, tapez votre nom 
 
 GitHub affiche automatiquement le contenu d'un fichier nommé README.txt s'il existe dans le dépôt. Le fichier README est l'endroit idéal pour écrire une description de votre projet.
 
-Vous l'avez là ! Votre premier dépôt GitHub, lié à votre dépôt Git local. Vous avez fait des pas de géant, alors soyez fier ! Maintenant, vous pouvez utiliser votre connaissance de Git pour suivre les progrès sur votre ordinateur local, et pousser ces pr
+Vous l'avez là ! Votre premier dépôt GitHub, lié à votre dépôt Git local. Vous avez fait des pas de géant, alors soyez fier ! Maintenant, vous pouvez utiliser votre connaissance de Git pour suivre les progrès sur votre ordinateur local, et `push` ces projets !
 
 
 ___

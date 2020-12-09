@@ -26,4 +26,4 @@ Lorsque vous utilisez l'attribut `alt`, vous devez respecter ces conventions :
 2. Donnez à l'image d'Ada Lovelace un attribut `alt` avec la valeur `Ada Lovelace`.
 
 ___ 
-| [Précédent](./4-proprietes-aria.md)   | [Quiz](https://moodle.ucly.fr/20-21/mod/quiz/view.php?id=32992)   | [Suivant : 12-doc](../12-doc/1-doc-css.md)   |
+| [Précédent](./4-proprietes-aria.md)   | [Suivant : 12-doc](../12-doc/1-doc-css.md)   |

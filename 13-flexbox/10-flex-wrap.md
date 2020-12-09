@@ -43,7 +43,7 @@ Note : La propriété `flex-wrap` est déclarée sur les conteneurs souples.
 
 ## A vous de jouer !
 
-1. Reprendre le code [suivant](./versions-exercices/v1-13-10/)
+1. Reprendre le code [suivant](./versions-exercices/v0-13-10/)
 
 2. Ajoutez une propriété `flex-wrap` avec la valeur `wrap` à la div  `#wrap`. Réduire et étirer le navigateur pour tester.
 

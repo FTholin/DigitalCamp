@@ -47,7 +47,7 @@ Cette propriété `flex-grow` est la première que nous avons apprise qui est d�
 
 ## A vous de jouer !
 
-1. Reprendre le code [suivant](/versions-exercices/v0-13-6/)
+1. Reprendre le code [suivant](./versions-exercices/v0-13-6/)
 
 2. Assignez aux classes `.top.side` et `.top.center` la règle `flex-grow: 1;`.
     - Étirez et rétrécissez le navigateur pour voir ce qui se passe.

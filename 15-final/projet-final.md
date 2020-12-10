@@ -15,6 +15,8 @@ Veuillez suivre **à la lettre** les indications sur la maquette. Si et **seulem
 
 Description du meilleur scénario : j'ai votre site internet et la maquette côte à côte et je vois la **exactement la même chose sur la forme**. Je regarde un peu votre code. Il est propre. Je met 20/20.
 
+Copier-Coller votre code HTML [ici](https://validator.w3.org/#validate_by_input) afin de vérifier sa validation des standards.
+
 L'organisation du dossier comportant toutes les fichiers pourrait s'organiser comme ci-dessous:
 
 ```

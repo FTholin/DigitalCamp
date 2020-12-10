@@ -72,11 +72,11 @@ La page doit comporter les caractéristiques suivantes:
     - image 4
  
 5. Une section citation
-    - span comportant la citation
+    - [span](https://developer.mozilla.org/fr/docs/Web/HTML/Element/span) comportant la citation
   
 6. Un pied de page
  
-    - span comportant les droits d'auteurs
+    - [span](https://developer.mozilla.org/fr/docs/Web/HTML/Element/span) comportant les droits d'auteurs
     - contenu perso
     
 ## Pistes d'implémentation

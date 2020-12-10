@@ -75,3 +75,6 @@ La page doit comporter les caractéristiques suivantes:
  
     - span comportant les droits d'auteurs
     - contenu perso
+    
+## Pistes d'implémentation
+- Les différentes sections seront implémentées avec les `<div>`.

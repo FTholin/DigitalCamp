@@ -13,6 +13,13 @@
 ## Chapitre 4: Sélecteur css - Projet savon 
   - Comment afficher une liste de couleur différente de sa puce ?
     - https://www.w3.org/Style/Examples/007/color-bullets.fr.html
+    
+## Class vs id : Quelles différences et quel attribut utiliser ?
+  - Il existe une différence notable entre les deux attributs class et id : chaque id doit avoir une valeur unique dans une même page tandis que plusieurs attributs class peuvent partager la même valeur.
+
+  - Pour plus de détails voir [ici](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/class-id/#:~:text=Il%20existe%20une%20diff%C3%A9rence%20notable,peuvent%20partager%20la%20m%C3%AAme%20valeur.)
+
+
 
 ## Comment faire les accolades `{ }` ?
 

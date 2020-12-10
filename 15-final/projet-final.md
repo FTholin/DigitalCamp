@@ -32,7 +32,8 @@ Vous pouvez continuer le travail sur l'éditeur [JsFiddle](https://jsfiddle.net/
 Aller sur le site [Pixabay](https://pixabay.com/fr/), trouvez des images allant bien avec votre sujet et copier l'adresse de l'image pour la coller dans l'éditeur.  
 Vous pouvez néanmoins rajouter vos images et les inclures dans le dossier à rendre, mais pensez à la limite de taille de fichier : 20Mo maximum pour le dossier ZIP.
 
-### Lien vers le dépôt : [Cliquez ici](https://moodle.ucly.fr/20-21/mod/assign/view.php?id=33814)
+### Lien vers le dépôt : <a href="https://moodle.ucly.fr/20-21/mod/assign/view.php?id=33814" target="_blank">Cliquez ici</a>
+
 
 ## Structure de la page
 

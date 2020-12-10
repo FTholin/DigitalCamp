@@ -10,7 +10,10 @@ L'objectif de cette activité est de réaliser la même structure architecturale
 
 ## Critères de rendu
 
-Nous noterons uniquement la forme et **la forme SEULE**. Les contenu des images et du texte est libre (restez décent tout de même).
+Nous noterons uniquement la forme et **la forme SEULE**. Les contenu des images et du texte est libre (restez décent tout de même).  
+Veuillez suivre **à la lettre** les indications sur la maquette. Si et **seulement s'il** n'y a pas d'instruction claire pour une portion de texte, vous pourrez le personnaliser vous-même. Mais l'objuectif est de **coller au mieux** à ce qu'il y a sur l'image.  
+
+Description du meilleur scénario : j'ai votre site internet et la maquette côte à côte et je vois la **exactement la même chose sur la forme**. Je regarde un peu votre code. Il est propre. Je met 20/20.
 
 L'organisation du dossier comportant toutes les fichiers pourrait s'organiser comme ci-dessous:
 

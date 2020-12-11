@@ -41,7 +41,7 @@ La page doit comporter les caractéristiques suivantes:
 
 1. Un header composé de:
   - Un logo ou nom personnalisé 
-  - Des liens de navigations pour les différents éléments de la page
+  - Des liens de navigations pour les différents éléments de la page ([ancrage](https://github.com/FTholin/DigitalCamp/blob/master/2-html-standard/9-lien-5.md))
   - Un bouton pour aller sur Instagram 
   
 2. Une section principale :

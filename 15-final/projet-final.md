@@ -34,6 +34,22 @@ Vous pouvez néanmoins rajouter vos images et les inclures dans le dossier à re
 
 ### Lien vers le dépôt : <a href="https://moodle.ucly.fr/20-21/mod/assign/view.php?id=33814" target="_blank">Cliquez ici</a>
 
+## Barème
+| Élément du cours | Critère | Note |
+| --------------- | --------------- | --------------- |
+| 1-html-structure | Ensemble du contenu HTML demandé | 5 |
+| 1-html-structure | Structure composée de plusieurs \<div\> | 1 |
+| 1-html-structure | Lien vers d'autres pages web | 1 |
+| 1-html-structure | Liens vers la même page | 1 |
+| 2-html-standard | HTML standardisé | 0.5 |
+| 5-regle-visuelle | Sélecteurs CSS valides | 1 |
+| 4-selecteur-css | Enchaînement et spécificité des sélecteurs | 1 |
+| 4-selecteur-css | Utilisation cohérente de classes et IDs | 1 |
+| 6-couleurs | Utilisation de couleurs Hexa ou RGB | 0.5 |
+| 7-typographie | Polices personnalisées liées avec @font-face | 2 |
+| 8-modèle-boîte | Bordures et marges de la maquette respectées | 4 |
+| 8-modèle-boîte | Gestion des effondrements de marge | 1 |
+| 13-flexbox | Aligner efficacement des éléments dans une \<div\> | 1 |
 
 ## Structure de la page
 

@@ -17,7 +17,7 @@ Description du meilleur scénario : j'ai votre site internet et la maquette côt
 
 Copier-Coller votre code HTML [ici](https://validator.w3.org/#validate_by_input) afin de vérifier sa validation des standards.
 
-L'organisation du dossier comportant toutes les fichiers pourrait s'organiser comme ci-dessous:
+L'organisation du dossier comportant toutes les fichiers doit s'organiser comme ci-dessous:
 
 ```
 ├── NOM-PRENOMETUDIANT/        # Dossier à rendre sous format zip

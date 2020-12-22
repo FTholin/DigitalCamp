@@ -31,7 +31,7 @@ Vous pouvez continuer le travail sur l'éditeur [JsFiddle](https://jsfiddle.net/
 
 Aller sur le site [Pixabay](https://pixabay.com/fr/), trouvez des images allant bien avec votre sujet et copier l'adresse de l'image pour la coller dans l'éditeur.  
 
-### Lien vers le dépôt : <a href="https://moodle.ucly.fr/20-21/mod/assign/view.php?id=33814" target="_blank">Cliquez ici</a>
+### Lien vers le dépôt : <a href="https://moodle.ucly.fr/20-21/mod/assign/view.php?id=34264" target="_blank">Cliquez ici</a>
 
 ## Barème
 | Élément du cours | Critère | Note |

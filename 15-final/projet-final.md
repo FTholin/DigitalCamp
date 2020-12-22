@@ -30,7 +30,6 @@ Pour les images celles-ci doivent être libres de droit. Voici [le site Pixabay]
 Vous pouvez continuer le travail sur l'éditeur [JsFiddle](https://jsfiddle.net/). Pensez à bien sauvegarder sur votre machine les fichiers si vous ne voulez pas tout perdre !
 
 Aller sur le site [Pixabay](https://pixabay.com/fr/), trouvez des images allant bien avec votre sujet et copier l'adresse de l'image pour la coller dans l'éditeur.  
-Vous pouvez néanmoins rajouter vos images et les inclures dans le dossier à rendre, mais pensez à la limite de taille de fichier : 20Mo maximum pour le dossier ZIP.
 
 ### Lien vers le dépôt : <a href="https://moodle.ucly.fr/20-21/mod/assign/view.php?id=33814" target="_blank">Cliquez ici</a>
 

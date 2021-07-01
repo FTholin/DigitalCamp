@@ -87,8 +87,9 @@ Voici l'ensemble des outils que nous allons utiliser durant toute la semaine.
 
 ## Coder en local
 
-**IMPORTANT :** Suivez le cours normalement, même si vous ne comprenez pas ce que vosu utilisez tout de suite (ex : le code `css`). **Tout** est expliqué en temps et en heure.  
+**IMPORTANT :** Suivez le cours normalement, même si vous ne comprenez pas ce que vous utilisez tout de suite (ex : le code `css`). **Tout** est expliqué en temps et en heure.  
 Dans le **même dossier** vous devrez créer un fichier `index.html` et `style.css`.  
+
 - `index.html` : votre code html.  
 - `style.css` : votre code css.  
 Pour insérer la feuille de style `.css` vous rajouterez la ligne de code suivante entre les balises `<head></head>` de votre page html.  
